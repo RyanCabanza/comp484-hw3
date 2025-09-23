@@ -112,3 +112,7 @@ blockquote {
 	float: left;
 	margin-right: 10px;
 }
+.twitterLink{
+	line-height: 0em;
+	padding-bottom: 25px;
+}
